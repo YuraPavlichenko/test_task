@@ -1,0 +1,4 @@
+/venv
+/inforce/.pytest_cache
+/inforce/test_task/.pytest_cache
+/inforce/test_task/migrations

@@ -1,0 +1,8 @@
+Django
+djangorestframework
+djangorestframework-jwt
+djangorestframework-simplejwt
+psycopg2-binary
+pytest
+requests
+pytest-django
